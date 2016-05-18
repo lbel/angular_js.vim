@@ -12,7 +12,7 @@ angular_js.vim
 
 Using [pathogen.vim][] is recommended:
 
-    cd ~/.vim/bundle && git clone git://github.com/elcnesh/angular_js.vim.git
+    cd ~/.vim/bundle && git clone git://github.com/lbel/angular_js.vim.git
 
 [pathogen.vim]:https://github.com/tpope/vim-pathogen
 
